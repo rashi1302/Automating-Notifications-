@@ -1,4 +1,4 @@
-# Automating-Notifications-
+# Automating-Notifications
 This is a program (Language used- Python) that generates desktop popup notifications after certain time intervals for the following -
 1. Drink 1 glass of water (after every 1 hr)
 2. Take a break from work (after every 1 hr )
